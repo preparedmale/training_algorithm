@@ -8,7 +8,4 @@
 /dataSources.local.xml
 
 # IDE 설정 파일
-/compiler.xml
-/jarRepositories.xml
-/misc.xml
-/vcs.xml
+/*
